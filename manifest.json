@@ -1,7 +1,7 @@
 {
-  "name": "Cumcord Loader",
+  "name": "Goose Loader",
   "version": "1.0.0",
-  "author": "creatable",
+  "author": "nil",
   "license": "CC0-1.0",
-  "description": "A loader for Cumcord."
+  "description": "A loader for goosemod."
 }
